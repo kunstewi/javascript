@@ -19,16 +19,16 @@ This document contains a comprehensive list of 1000 theory and practice problems
 
 ### Theory
 
-1. [ ] What are the primitive data types in JavaScript?
-2. [ ] Explain the difference between `null` and `undefined`.
-3. [ ] What is the difference between `==` and `===`?
-4. [ ] How does type coercion work in JavaScript? Give examples.
-5. [ ] What is `NaN`? What is its type?
-6. [ ] Explain the concept of hoisting in relation to `var`.
-7. [ ] What is the difference between declaring a variable with `var`, `let`, and `const`?
-8. [ ] Are variables declared with `const` immutable? Explain.
-9. [ ] What is the Temporal Dead Zone (TDZ)?
-10. [ ] How does the `typeof` operator work? What are its quirks (e.g., `typeof null`)?
+1. [x] What are the primitive data types in JavaScript?
+2. [x] Explain the difference between `null` and `undefined`.
+3. [x] What is the difference between `==` and `===`?
+4. [x] How does type coercion work in JavaScript? Give examples.
+5. [x] What is `NaN`? What is its type?
+6. [x] Explain the concept of hoisting in relation to `var`.
+7. [x] What is the difference between declaring a variable with `var`, `let`, and `const`?
+8. [x] Are variables declared with `const` immutable? Explain.
+9. [x] What is the Temporal Dead Zone (TDZ)?
+10. [x] How does the `typeof` operator work? What are its quirks (e.g., `typeof null`)?
 11. [ ] What is a Symbol? What is it used for?
 12. [ ] How do BigInts differ from the Number type?
 13. [ ] Explain pass-by-value vs pass-by-reference in JavaScript.
